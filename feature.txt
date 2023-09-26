@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 fjeijfeifjiej
 efjefjejfijfeijefij
+=======
+grgrgrgrgrg
+yjyjyjyjyj
+>>>>>>> feature
